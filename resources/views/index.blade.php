@@ -517,11 +517,11 @@
 <div class="cont">
     <div  style="text-align: left">
 
-        <p class="login__signup">TEST LOGIN 1: <a>test@gmail.com</a></p>
-        <p class="login__signup">PASSWORD 1:  &nbsp;<a>test@gmail.com</a></p>
+        <p class="login__signup">TEST LOGIN 1: <a>test@mail.com</a></p>
+        <p class="login__signup">PASSWORD 1:  &nbsp;<a>test@mail.com</a></p>
         <br>
-        <p class="login__signup">TEST LOGIN 2: <a>test2@gmail.com</a></p>
-        <p class="login__signup">PASSWORD 2:  &nbsp;<a>test2@gmail.com</a></p>
+        <p class="login__signup">TEST LOGIN 2: <a>test2@mail.com</a></p>
+        <p class="login__signup">PASSWORD 2:  &nbsp;<a>test2@mail.com</a></p>
     </div>
     <div class="demo">
 
